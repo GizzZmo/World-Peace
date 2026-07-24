@@ -149,69 +149,21 @@ Denne ontologiske omveltningen kan imidlertid bare omsettes i virkelighet dersom
 
 Overgangen vil kreve uovertrufne anstrengelser. Det krever at nasjonalstater og allianser avvikler sine hegemoni-ambisjoner, at multinasjonale selskaper bøyer seg for transparent demokratisk kontroll for å unngå et digitalt kontrollhierarki, og at enhver borger påtar seg byrden som en med-lovgiver for planetens fremtid. Fred krever ikke overgivelse, men en radikal og universell utvidelse av suverenitet: I det 21. århundret må makten uavkortet overføres til menneskeheten som en samlet og digitalt styrket helhet.   
 
+## Kilder
 
-unu.edu
-Shaping the future of global governance | United Nations University
-Åpnes i et nytt vindu
-
-un.org
-sotf-pact-for-the-future-deck.pdf - Welcome to the United Nations
-Åpnes i et nytt vindu
-
-un.org
-The Pact's Journey | Pact for the future - Welcome to the United Nations
-Åpnes i et nytt vindu
-
-feps-europe.eu
-A UN Pact for the Future against national retrenchment and global disorder
-Åpnes i et nytt vindu
-
-americanacademy.de
-The Digital Demos - American Academy in Berlin
-Åpnes i et nytt vindu
-
-en.wikipedia.org
-E-democracy - Wikipedia
-Åpnes i et nytt vindu
-
-jedem.org
-Deliberation and Collaboration in the Policy Process: A Web 2.0 approach
-Åpnes i et nytt vindu
-
-eeas.europa.eu
-EU Explanation of Position: UN General Assembly: Pact for the Future | EEAS
-Åpnes i et nytt vindu
-
-researchgate.net
-(PDF) UN Pact for the Future and Global Digital Compact: A Critical Interdisciplinary Analysis of Global Digital Governance, Digital-ID, and Central-Bank Digital Currencies - ResearchGate
-Åpnes i et nytt vindu
-
-c4unwn.org
-Interim Peopleʼs Pact for the Future: - Coalition for the UN We Need
-Åpnes i et nytt vindu
-
-en.wikipedia.org
-Collaborative e-democracy - Wikipedia
-Åpnes i et nytt vindu
-
-commons.wikimedia.org
-File:Collaborative E-democracy2.jpg - Wikimedia Commons
-Åpnes i et nytt vindu
-
-proinfobg.com
-CODE Europe - ProInfo
-Åpnes i et nytt vindu
-
-oecd.org
-AI in civic participation and open government: Governing with Artificial Intelligence | OECD
-Åpnes i et nytt vindu
-
-ojcmt.net
-The People's Assembly: Testing the Collaborative (e)-Democracy - Online Journal of Communication and Media Technologies
-Åpnes i et nytt vindu
-
-globalpolicyforum.net
-Briefings Archives - Global Policy Forum (GPF)
-Åpnes i et nytt vindu
-Åpnes i et nytt vindu
-Åpnes i et nytt vindu
+- [unu.edu – Shaping the future of global governance | United Nations University](https://unu.edu/cpr/news/shaping-future-global-governance)
+- [un.org – sotf-pact-for-the-future-deck.pdf - Welcome to the United Nations](https://www.un.org/sites/un2.un.org/files/sotf-pact-for-the-future-deck.pdf)
+- [un.org – The Pact's Journey | Pact for the future - Welcome to the United Nations](https://www.un.org/pact-for-the-future/en/pacts-journey)
+- [feps-europe.eu – A UN Pact for the Future against national retrenchment and global disorder](https://feps-europe.eu/wp-content/uploads/2025/01/14.-A-UN-Pact-for-the-Future-against-national-retrenchment-and-global-disorder.pdf)
+- [americanacademy.de – The Digital Demos - American Academy in Berlin](https://www.americanacademy.de/the-digital-demos/)
+- [en.wikipedia.org – E-democracy - Wikipedia](https://en.wikipedia.org/wiki/E-democracy)
+- [jedem.org – Deliberation and Collaboration in the Policy Process: A Web 2.0 approach](https://www.jedem.org/index.php/jedem/article/view/28)
+- [eeas.europa.eu – EU Explanation of Position: UN General Assembly: Pact for the Future | EEAS](https://www.eeas.europa.eu/delegations/un-new-york/eu-explanation-position-un-general-assembly-pact-future_en?s=63)
+- [researchgate.net – (PDF) UN Pact for the Future and Global Digital Compact: A Critical Interdisciplinary Analysis of Global Digital Governance, Digital-ID, and Central-Bank Digital Currencies](https://www.academia.edu/143670202/UN_Pact_for_the_Future_and_Global_Digital_Compact_A_Critical_Interdisciplinary_Analysis_of_Global_Digital_Governance_Digital_ID_and_Central_Bank_Digital_Currencies)
+- [c4unwn.org – Interim People's Pact for the Future: - Coalition for the UN We Need](https://c4unwn.org/peoples-pact-for-the-future/)
+- [en.wikipedia.org – Collaborative e-democracy - Wikipedia](https://en.wikipedia.org/wiki/Collaborative_e-democracy)
+- [commons.wikimedia.org – File:Collaborative E-democracy2.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Collaborative_E-democracy2.jpg)
+- [proinfobg.com – CODE Europe - ProInfo](https://proinfobg.com/past-work/code-europe/)
+- [oecd.org – AI in civic participation and open government: Governing with Artificial Intelligence | OECD](https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en/full-report/ai-in-civic-participation-and-open-government_51227ce7.html)
+- [ojcmt.net – The People's Assembly: Testing the Collaborative (e)-Democracy - Online Journal of Communication and Media Technologies](https://www.ojcmt.net/article/the-peoples-assembly-testing-the-collaborative-e-democracy-7836)
+- [globalpolicyforum.net – Briefings Archives - Global Policy Forum (GPF)](https://www.globalpolicyforum.net/blog/category/briefings/)
