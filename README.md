@@ -1,5 +1,9 @@
 # World-Peace
 
+## Om
+
+Dette repositoriet inneholder "Veikart For Global Fred", et forskningsdokument som utforsker hvordan verdensfred kan oppnås gjennom et Kollaborativt Super-E-Demokrati og livssynet Universalis. Dokumentet analyserer dagens globale geopolitiske situasjon, beskriver en ideell fremtidstilstand der verdensfred og suverenitet er oppnådd, og presenterer et trinnvis veikart for global transformasjon rettet mot borgere, styresmakter, bedrifter og internasjonale allianser som FN og NATO.
+
  Veikart For Global Fred 
 Utforsk nettsteder
 (1) Undersøk kjerneprinsippene bak styreformen collaborative super e-democracy og livssynet universalis for å etablere et teoretisk grunnlag for global fred.
