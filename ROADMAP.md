@@ -23,6 +23,10 @@ Adresserer de nødvendige forutsetningene for overgangen, med fokus på å bygge
 - Gi sivilsamfunnsorganisasjoner og ungdomsrepresentanter formelle roller i internasjonale forhandlinger, inkludert oppfølgingen av "Pact for the Future".
 - Rulle ut plattformene først på lokalt og kommunalt nivå (budsjettering, arealplanlegging) for å bygge digital tillit før nasjonal og global skalering.
 
+**Suksessindikatorer:** Andel av verdens befolkning med pålitelig internettilgang; antall kommuner/lokalsamfunn med aktive Collaborative e-Policymaking-plattformer; formell deltakelse av sivilsamfunn i FN-delegasjoner.
+
+**Nøkkelrisiko:** Se README.md kapittel 9.1 og 9.3 om fare for teknokratisk sentralisering og digital ulikhet i kompetanse.
+
 ## Fase 2: Nasjonal Institusjonalisering og Reform av FN og Finansarkitekturen
 
 Flytter fokus til makroøkonomisk reform og nasjonal integrasjon av direkte makt når teknologien er anerkjent som pålitelig i lokal forvaltning.
@@ -33,6 +37,10 @@ Flytter fokus til makroøkonomisk reform og nasjonal integrasjon av direkte makt
 - Mobilisere bruk av IMFs spesielle trekkrettigheter (SDRs) til gjeldslette og finansiering av globale fellesgoder.
 - Etablere en ny FN-skattekonvensjon for å bekjempe ulovlig kapitalflukt og sikre at store selskaper bidrar til SDG-stimuli.
 
+**Suksessindikatorer:** Antall land med grunnlovsfestet digital vetorett; volum av SDR-er mobilisert til gjeldslette; vedtak av en internasjonal skattekonvensjon.
+
+**Nøkkelrisiko:** Se README.md kapittel 9.4 om motstand fra etablerte maktstrukturer.
+
 ## Fase 3: Transnasjonale Domener, Globale Fellesgoder og Ny Sikkerhetsarkitektur
 
 Krystalliserer suverenitetsflyttingen ved å løsrive myndighet over globale fellesgoder fra nasjonale interesser.
@@ -42,6 +50,10 @@ Krystalliserer suverenitetsflyttingen ved å løsrive myndighet over globale fel
 - Reformere Verdens handelsorganisasjon (WTO) til en motor for bærekraftig utvikling.
 - Omprioritere nasjonale forsvarsbudsjetter fra territoriale angrepskapasiteter til katastrofeberedskap og planetarisk beskyttelse.
 
+**Suksessindikatorer:** Andel av globalt romtrafikk-regelverk under kollaborativ forvaltning; etablering av "Global Fund on AI"; andel av forsvarsbudsjetter omprioritert til katastrofeberedskap.
+
+**Nøkkelrisiko:** Se README.md kapittel 9.1 om fare for sentralisert teknokrati, spesielt knyttet til global KI-styring.
+
 ## Fase 4: Realisering av Planetarisk Suverenitet
 
 Den avsluttende fasen der Universalis er dypt forankret i den globale kulturen og nasjonalstaten avvikles som suveren krigførende enhet.
@@ -49,6 +61,10 @@ Den avsluttende fasen der Universalis er dypt forankret i den globale kulturen o
 - Avvikle nasjonalstatens rett til å føre krig; statenes funksjon begrenses til lokal administrativ forvaltning.
 - Oppløse Sikkerhetsrådet i sin nåværende vetostyrte form og erstatte det med en Global Citizens' Assembly (Global Borgerforsamling).
 - Løse konflikter mellom regioner gjennom kollaborativ deliberasjon og verifiserte algoritmiske prosesser fremfor militær makt.
+
+**Suksessindikatorer:** Formell avvikling av nasjonalstatens krigsrett i internasjonal rett; opprettelse av Global Citizens' Assembly som erstatning for Sikkerhetsrådet.
+
+**Nøkkelrisiko:** Se README.md kapittel 9.5 om kulturell og verdimessig pluralisme i overgangen til et universalistisk rammeverk.
 
 ## Målrettede mandater for globale aktører
 
@@ -63,4 +79,4 @@ Gjennomføringen av hver fase avhenger av koordinert handling fra følgende grup
 
 ## Videre lesing
 
-Se [README.md](README.md) for den fullstendige analysen av dagens globale situasjon, den ideelle fremtiden, mekanismene bak Collaborative Super E-Democracy, og en fullstendig liste over kilder.
+Se [README.md](README.md) for den fullstendige analysen av dagens globale situasjon, den ideelle fremtiden, mekanismene bak Collaborative Super E-Democracy, en kritisk gjennomgang av risikoer og motargumenter (kapittel 9), en ordliste over sentrale begreper (kapittel 10), og en fullstendig liste over kilder.
